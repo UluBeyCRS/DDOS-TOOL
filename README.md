@@ -1,6 +1,6 @@
 git clone https://github.com/UluBeyCRS/DDOS-TOOL.git
 
-Kali linux:
+# Kali linux:
 # Update system
 sudo apt update && sudo apt upgrade -y
 
@@ -16,7 +16,7 @@ pip3 install requests colorama netifaces
 # Run with root privileges (required for SYN flood, ICMP flood, IP spoofing)
 sudo python3 stormbreaker.py
 
-Termux:
+# Termux:
 # Update Termux
 pkg update && pkg upgrade -y
 
