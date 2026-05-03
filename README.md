@@ -1,5 +1,7 @@
 git clone https://github.com/UluBeyCRS/DDOS-TOOL.git
 
+cd DDOS-TOOL
+
 # Kali linux:
 
 sudo apt update && sudo apt upgrade -y
